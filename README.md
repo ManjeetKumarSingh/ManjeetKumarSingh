@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManjeetKumarSingh
+- 👋 Hi, I’m @Manjeet Kumar
 - 👀 I’m interested in , Programming like Java, Js , React , Redux ,Google appengine.
 - 🌱 I’m currently learning Python and Gradle migration
 - 💞️ I’m looking to collaborate on anything related to java and React
