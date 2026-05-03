@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Manjeet Kumar
-- 👀 I’m interested in, Programming like Java, Js, Nodejs, and ReactJs.
+- 👀 I’m interested in Programming like Java, JS, ReactJS, and Python.
 - 👀 Having cloud computing knowledge in Google AppEngine, Cloud Run, Kubernetes, AWS, S3-Bucket and PCF
 -  Knowing frameworks like SpringMVC, RestEasy, Springboot, Express.js, and React.js as a UI library.
--  In DB I am familiar with MySql, Oracle, and PostgreSQL but have more practical knowledge in Google Datastore, Firestore, and MongoDB.
-- 🌱 I’m currently learning Python, Gradle, and Docker.
-- 💞️ I’m looking to collaborate on anything related to Java, Nodejs, TypeScript and ReactJs.
+-  In DB, I am familiar with MySQL, Oracle, PostgreSQL,  Kafka, and MongoDB.
+-  Knowing Docker, Kubernetes, and OpenShift.
+- 🌱 I’m currently transitioning into AI/ML.
+-  👀 Having an understanding of RAG, Generative AI, and AgenticAi.
+- 💞️ I’m looking to collaborate on anything related to Java, Python, and RAG, ScikitLearn, ML Model, and Embeddings.
 - 📫 How to reach me -->  @manjeet260190@gmail.com
 
 <!---
